@@ -1,3 +1,5 @@
 Hey, I am Arko.
 Adding Feature 1
 Adding some more commits before merging
+Adding some more features to branch Feature 2
+Adding a custom payment option in here
